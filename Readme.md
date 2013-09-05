@@ -9,6 +9,13 @@
 
     $ component install shallker/ie-event-polyfill
 
+## Embed in HTML
+```html
+<!--[if IE 8]>
+  <script src="http://shallker.github.io/ie-event-polyfill/index.js">
+<![endif]-->
+```
+
 ## License
 
   MIT
