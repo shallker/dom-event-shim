@@ -1,5 +1,5 @@
 /*
-  Standardize DOM event on IE8+
+  Polyfill W3C DOM event modal on IE8+
   @from https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
 */
 (function() {

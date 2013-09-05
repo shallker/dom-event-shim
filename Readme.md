@@ -1,13 +1,13 @@
 
-# ie-event-standardizer
+# ie-event-polyfill
 
-  Standardize DOM event on IE8+
+  Polyfill W3C DOM event modal on IE8+
 
 ## Installation
 
   Install with [component(1)](http://component.io):
 
-    $ component install shallker/ie-event-standardizer
+    $ component install shallker/ie-event-polyfill
 
 ## License
 

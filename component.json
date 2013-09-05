@@ -1,7 +1,7 @@
 {
-  "name": "ie-event-standardizer",
-  "repo": "shallker/ie-event-standardizer",
-  "description": "Standardize DOM event on IE8+",
+  "name": "ie-event-polyfill",
+  "repo": "shallker/ie-event-polyfill",
+  "description": "Polyfill W3C DOM event modal on IE8+",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
