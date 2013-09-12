@@ -12,7 +12,7 @@
 ## Embed in HTML
 ```html
 <!--[if IE 8]>
-  <script src="http://shallker.github.io/ie-event-polyfill/index.js">
+  <script src="http://shallker.github.io/ie-event-polyfill/index.js"></script>
 <![endif]-->
 ```
 
