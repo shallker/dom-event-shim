@@ -1,5 +1,5 @@
 
-# ie-event-polyfill
+# dom-event-shim
 
   Polyfill W3C DOM event modal on IE8+
 
@@ -7,12 +7,12 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install shallker/ie-event-polyfill
+    $ component install shallker/dom-event-shim
 
 ## Embed in HTML
 ```html
 <!--[if IE 8]>
-  <script src="http://shallker.github.io/ie-event-polyfill/index.js"></script>
+  <script src="http://shallker.github.io/dom-event-shim/index.js"></script>
 <![endif]-->
 ```
 
