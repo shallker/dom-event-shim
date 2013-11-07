@@ -2,7 +2,7 @@
   "name": "dom-event-shim",
   "repo": "shallker/dom-event-shim",
   "description": "Polyfill W3C DOM event modal on IE8+",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {},
   "development": {},
